@@ -22,14 +22,14 @@ log of main changes / content present on pages during these dates
 * text displayed on both themissingv pages are similar but with some differences:
 ### heartlodged.xyz
 text displayed:
-> loading connection [v]
-connecting to PVT_outpost.shot(utc)
+> loading connection [v]<br>
+connecting to PVT_outpost.shot(utc)<br>
 estimated completion time: august 1 2025 (pvt_outpost time)
 
 ### hajimeli.xyz
 text displayed:
-> loading connection [v]
-connecting to PVT_access[17].shot(1732428000)
+> loading connection [v]<br>
+connecting to PVT_access[17].shot(1732428000)<br>
 estimated completion time: august 1 2025 (pvt_outpost time)
 
 ## 2025-08-03 
